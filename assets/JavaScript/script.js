@@ -34,7 +34,7 @@ if (specialCharacters == true) {
     charset += specialCharactersChars;
     console.log(true);
     }
-while (length < 7 || length > 128) {
+while (length < 8 || length > 128) {
     var length = prompt('Invalid password length, please choose another');
 }
 
