@@ -12,5 +12,6 @@ This is a WebPage for users to receive generated passwords
 Generator can can only produce a password between 8 to 128
 
 ## Screenshot
+![Capture](https://user-images.githubusercontent.com/109838413/192106507-6d45b1fd-9a7c-4e0b-947f-0b8fb2e1a4ab.PNG)
 
 ## URL
